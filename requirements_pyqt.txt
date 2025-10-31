@@ -1,0 +1,5 @@
+PyQt5==5.15.10
+pynput==1.7.6
+pycaw==20251023
+comtypes==1.2.0
+pyinstaller==6.3.0
